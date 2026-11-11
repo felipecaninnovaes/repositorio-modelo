@@ -1,7 +1,7 @@
 # NNNN — Título da feature
 
 - **Status:** rascunho <!-- rascunho | aprovada | implementada | abandonada -->
-- **Autor:** 
+- **Autor:**
 - **Data:** AAAA-MM-DD
 - **ADRs relacionados:** —
 
@@ -9,7 +9,7 @@
 Qual problema, para quem, e por que agora. Evidências (issue, métrica, relato).
 
 ## Objetivos
-- 
+-
 
 ## Fora de escopo
 - O que explicitamente **não** será feito (evita que a IA amplie o escopo).
@@ -38,7 +38,7 @@ Cada critério vira pelo menos um teste.
 Performance, compatibilidade, segurança, privacidade, custo.
 
 ## Questões em aberto
-- [ ] 
+- [ ]
 
 ## Histórico de mudanças
 | Data | Mudança | Motivo |

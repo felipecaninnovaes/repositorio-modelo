@@ -2,7 +2,7 @@
 
 - **Status:** proposto <!-- proposto | aceito | rejeitado | substituído por NNNN -->
 - **Data:** AAAA-MM-DD
-- **Decisores:** 
+- **Decisores:**
 
 ## Contexto
 Forças em jogo: requisitos, restrições, o que motivou decidir agora.
@@ -15,5 +15,5 @@ Forças em jogo: requisitos, restrições, o que motivou decidir agora.
 Escolhemos **…** porque ….
 
 ## Consequências
-- ✅ 
+- ✅
 - ⚠️ (custos, riscos, o que fica mais difícil)

@@ -5,6 +5,6 @@ Todas as mudanças relevantes para usuários deste projeto. Formato baseado em [
 ## [Unreleased]
 
 ### Added
-- 
+-
 
 <!-- Seções possíveis: Added, Changed, Deprecated, Removed, Fixed, Security -->

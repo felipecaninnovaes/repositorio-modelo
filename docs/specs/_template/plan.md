@@ -23,10 +23,10 @@ APIs, schemas, formatos, CLI, eventos. Compatível com versões anteriores? Migr
 | R1 / CA1 | unitário | |
 
 ## Riscos e mitigação
-- 
+-
 
 ## Rollback
 Como desfazer se der errado em produção.
 
 ## Decisões que viram ADR
-- → ADR: 
+- → ADR:
